@@ -557,7 +557,7 @@ header .nav-bar {
         justify-content: center;
     }
 
-    .hero-section .hero-details :is(.subtitle, .desciption), .about-section .about-details .contact-section .contact-form{
+    .hero-section .hero-details :is(.subtitle, .description), .about-section .about-details .contact-section .contact-form{
         max-width: 100%;
     }
 
